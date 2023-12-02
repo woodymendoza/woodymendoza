@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Woody's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=woodymendoza&theme=dracula)](https://github.com/woodymendoza/)
+[![Woody's github activity graph](https://github-readme-activity-graph-git-main-woodymendozas-projects.vercel.app/graph?username=woodymendoza&theme=dracula)](https://github.com/woodymendoza/)
 
 <!--
 **woodymendoza/woodymendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
