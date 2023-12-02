@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Woody's github activity graph](https://woody-activity-graph-orpin.vercel.app/graph?username=woodymendoza&theme=dracula)](https://github.com/woodymendoza/)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--
 **woodymendoza/woodymendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
