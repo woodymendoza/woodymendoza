@@ -1,4 +1,9 @@
-### Hi there 👋
+✨ I'm full stack software engineer with 20+ years of experience. ✨
+
+- 🔭 I’m currently working with Laravel, MySQL, TailwindCSS, AlpineJS
+- 🪄 I specialize in Software as a Service (SAAS)
+- ⚡ On the side I dabble in GoLang
+- 🌱 I’m currently learning Rust
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
