@@ -5,7 +5,9 @@
 - ⚡ On the side I dabble in GoLang
 - 🌱 I’m currently learning Rust
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
+![](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
+
 
 <!--
 **woodymendoza/woodymendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
